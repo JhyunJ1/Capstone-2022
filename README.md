@@ -50,4 +50,4 @@ Front end / Kotlin
 
 Back end / Kotlin or Java
 
-Database / 
+Database / SQLite ( 예정 )
